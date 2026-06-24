@@ -1,0 +1,23 @@
+{
+  "name": "porterman",
+  "version": "0.0.0",
+  "description": "Porterman is a helper tool designed to support your workflow and help you move toward your goals with MahameruJS.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mahamerujs",
+    "porterman",
+    "utility",
+    "helper",
+    "tool",
+    "typescript"
+  ],
+  "author": "Bintan <hello@bintvn.co>",
+  "license": "ISC",
+  "type": "commonjs",
+  "files": [
+    "dist"
+  ]
+}
