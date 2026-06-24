@@ -1,6 +1,6 @@
 {
   "name": "porterman",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Porterman is a helper tool designed to support your workflow and help you move toward your goals with MahameruJS.",
   "main": "./dist/index.js",
   "scripts": {
