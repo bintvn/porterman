@@ -1,11 +1,11 @@
 # porterman
 
-[![npm version](https://img.shields.io/npm/v/mahameru.svg)](https://www.npmjs.com/package/mahameru)
+[![npm version](https://img.shields.io/npm/v/porterman.svg)](https://www.npmjs.com/package/porterman)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Porterman is a helper tool designed to support your workflow and help you move toward your goals with MahameruJS.
 
-## Development Status
+## 🚧 Development Status
 
 This project is currently under active development.
 
