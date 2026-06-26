@@ -28,7 +28,7 @@
     },
     "./string-helper": {
       "types": "./dist/string-helper.d.ts",
-      "import": "./dist/string-helper.js"
+      "default": "./dist/string-helper.js"
     }
   },
   "devDependencies": {
